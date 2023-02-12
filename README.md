@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohammadahalim" target="blank"><img src="https://img.shields.io/twitter/follow/mohammadahalim?logo=twitter&style=for-the-badge" alt="mohammadahalim" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **mohammadabdelhalim5@gmail.com**
 
