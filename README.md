@@ -3,10 +3,10 @@
 
 
 
-<h2>Data Analysis Projects</h2>
-<ul>
-  <li><a href="https://github.com/1abdelhalim/Data-Analysis-Projects">Data Analysis Projects</a></li>
-</ul>
+
+
+  <h2><a href="https://github.com/1abdelhalim/Data-Analysis-Projects">Data Analysis Projects</a></h2>
+
 
 <h3> 📫 How to reach me mohammadabdelhalim5@gmail.com<h3/>
 
