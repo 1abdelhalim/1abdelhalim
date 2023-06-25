@@ -8,7 +8,7 @@
   <h2><a href="https://github.com/1abdelhalim/Data-Analysis-Projects">Data Analysis Projects</a></h2>
 
 
-<h3> 📫 How to reach me mohammadabdelhalim5@gmail.com<h3/>
+<h3> 📫 Email : mohammadabdelhalim5@gmail.com<h3/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
